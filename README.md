@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">I'm Student of 42 Istanbul and Prompt Engineer</h3>
+<h3 align="center">I'm a Student at 42 Istanbul and a Prompt Engineer</h3>
 
 - 🌱 I’m currently learning **Cobol, C, C++**
 
